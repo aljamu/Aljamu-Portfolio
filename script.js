@@ -1,9 +1,9 @@
 const portfolioData = [
     // Video
-    { image: 'img/Video/breezeblocks.png', title: 'Breezeblocks', art: 'Music Video' },
-    { image: 'img/Video/isolated.png', title: 'Isolated', art: 'Short Film' },
-    { image: 'img/Video/kissOfDeath.png', title: 'Kiss of Death', art: 'Short Film' },
-    { image: 'img/Video/straubsphoto.png', title: 'Straubsphoto', art: 'Promo Video' },
+    { image: './img/Video/breezeblocks.png', title: 'Breezeblocks', art: 'Music Video' },
+    { image: './img/Video/isolated.png', title: 'Isolated', art: 'Short Film' },
+    { image: './img/Video/kissOfDeath.png', title: 'Kiss of Death', art: 'Short Film' },
+    { image: './img/Video/straubsphoto.png', title: 'Straubsphoto', art: 'Promo Video' },
 
     //Audio
 
